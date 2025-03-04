@@ -46,9 +46,9 @@
 
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=MARIAM123AYMAN" alt="smir45" />
+  <img src="https://komarev.com/ghpvc/?username=MARIAM123AYMAN" alt="MARIAM123AYMAN" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MARIAM123AYMAN?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
+  <img src="https://img.shields.io/github/stars/MARIAM123AYMAN?label=Stars" alt="Total Stars">
 </p>
 
 
@@ -78,7 +78,7 @@
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smir45">
+<a href="https://github.com/MARIAM123AYMAN">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MARIAM123AYMAN&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MARIAM123AYMAN&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
