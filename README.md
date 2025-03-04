@@ -1,5 +1,3 @@
-### Hello World, I'm Mariam Ayman:
-
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
@@ -9,15 +7,15 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-
-<br/>
-<br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+everybody+...&hearts;++;Front-End+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-<h1 align="center">Hi 👋, I'm Mariam</h1>
-<h3 align="center">A frontend developer</h3>
+<h1 align="start">Hi 👋,I'm Mariam</h1>
+<h3 align="start">A frontend developer</h3>
 
 - 🌱 I’m currently learning **frameWorks: react , tailwindCSS , TypeScript**
 
