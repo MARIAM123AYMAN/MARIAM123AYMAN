@@ -64,7 +64,6 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/MARIAM123AYMAN-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MARIAM123AYMAN#version3"/>
   </a>
 </p>
